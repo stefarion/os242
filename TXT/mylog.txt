@@ -12,6 +12,7 @@ ZCZC W00 3 L15 Assignment #05
 ZCZC W00 8 L41 TXT/mylog.txt related
 ZCZC W00 8 L03 GitHub and git related, including commit, push, pull
 ZCZC W00 10 L06 References and browsing related
+ZCZC W00 4 L05 Weekly quiz without studying
 ZCZC W01 200 L02 Class meetings related
 ZCZC W01 120 L01 Scele related to Operating System
 ZCZC W01 180 L11 Assignment #01
@@ -19,6 +20,8 @@ ZCZC W01 15 L12 Assignment #02
 ZCZC W01 5 L13 Assignment #03
 ZCZC W01 60 L14 Assignment #04
 ZCZC W01 15 L15 Assignment #05
-ZCZC W01 80 L41 TXT/mylog.txt related
-ZCZC W01 80 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 30 L41 TXT/mylog.txt related
+ZCZC W01 90 L03 GitHub and git related, including commit, push, pull
 ZCZC W01 120 L08 OS chat or talk related with friends
+ZCZC W01 30 L06 References and browsing related
+ZCZC W01 30 L05 Weekly quiz with studying
