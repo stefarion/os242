@@ -39,3 +39,15 @@ ZCZC W02 30 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 60 L08 OS chat or talk related with friends
 ZCZC W02 60 L06 References and browsing related
 ZCZC W02 20 L05 Weekly quiz with studying
+ZCZC W03 200 L02 Class meetings related
+ZCZC W03 60 L01 Scele related to Operating System (including doing Pop Quiz)
+ZCZC W03 120 L11 Assignment #01 (including reading new links)
+ZCZC W03 30 L12 Assignment #02
+ZCZC W03 30 L13 Assignment #03
+ZCZC W03 30 L14 Assignment #04
+ZCZC W03 30 L15 Assignment #05
+ZCZC W03 30 L41 TXT/mylog.txt related
+ZCZC W03 60 L43 TXT/myrank.txt related, including review links.
+ZCZC W03 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 60 L08 OS chat or talk related with friends
+ZCZC W03 120 L06 References and browsing related

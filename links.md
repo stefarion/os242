@@ -32,3 +32,7 @@ Artikel berisi pengenalan materi file system pada Linux.
 Artikel berisi pengenalan materi File Hierarchy Structure pada Linux secara umum.
 14. [Linux FHS: Part 2](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.html)<br>
 Artikel berisi pengenalan materi File Hierarchy Structure pada Linux secara lengkap.
+15. [FAT32 vs NTFS](https://www.geeksforgeeks.org/difference-between-fat32-and-ntfs/)<br>
+Artikel berisi penjelasan mengenai perbedaan FAT32 dan NTFS dalam file system.
+16. [Introduction to NFS](https://www.techtarget.com/searchenterprisedesktop/definition/Network-File-System)<br>
+Artikel berisi pengenalan NFS (Network File System).
