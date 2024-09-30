@@ -36,3 +36,19 @@ Artikel berisi pengenalan materi File Hierarchy Structure pada Linux secara leng
 Artikel berisi penjelasan mengenai perbedaan FAT32 dan NTFS dalam file system.
 16. [Introduction to NFS](https://www.techtarget.com/searchenterprisedesktop/definition/Network-File-System)<br>
 Artikel berisi pengenalan NFS (Network File System).
+17. [Memory Management in Linux](https://www.javatpoint.com/linux-memory-management)<br>
+Artikel berisi penjelasan memory dalam Linux.
+18. [Memory Protection](https://www.geeksforgeeks.org/memory-protection-in-operating-systems/)<br>
+Artikel berisi bagaimana security memory pada sistem operasi.
+19. [Logical vs Physical Address](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)<br>
+Artikel berisi perbedaan logical address dan physical address secara menyeluruh.
+20. [What is Fragmentation?](https://www.geeksforgeeks.org/what-is-fragmentation-in-operating-system/)<br>
+Artikel berisi penjelasan mengenai fragmentation dalam sistem operasi.
+21. [What is Paging?](https://www.geeksforgeeks.org/paging-in-operating-system/)<br>
+Artikel berisi penjelasan mengenai paging dalam sistem operasi.
+22. [What is Page Table?](https://www.javatpoint.com/os-page-table#google_vignette)<br>
+Artikel berisi penjelasan mendalam mengenai page table.
+23. [What is Swapping?](https://www.geeksforgeeks.org/swapping-in-operating-system/)<br>
+Artikel berisi penjelasan mengenai swapping dalam sistem operasi.
+24. [Intel vs ARM](https://www.makeuseof.com/arm-vs-intel-processors-what-is-the-difference/)<br>
+Artikel berisi perbedaan Intel Processor dan ARM Processor.
