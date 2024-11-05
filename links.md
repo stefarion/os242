@@ -92,21 +92,21 @@ Artikel berisi penjelasan mengenai Amdahl’s Law.
 Artikel berisi macam-macam model multi threading.
 44. [Fork-Join Parallelism](https://ycpcs.github.io/cs365-spring2017/lectures/lecture13.html)<br>
 Artikel berisi penjelasan mengenai model parallel programming, yaitu Fork-Join.
-45. [What is Critical Section?](https://www.geeksforgeeks.org/g-fact-70/)
+45. [What is Critical Section?](https://www.geeksforgeeks.org/g-fact-70/)<br>
 Artikel berisi penjelesan mengenai critical section pada synchronization.
-46. [Peterson's Solution in Code](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/)
+46. [Peterson's Solution in Code](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/)<br>
 Artikel berisi cara kerja Peterson's Solution dalam sebuah kode.
-47. [Do We Need Memory Barriers?](https://www.quora.com/Why-do-we-need-memory-barriers-in-OS)
+47. [Do We Need Memory Barriers?](https://www.quora.com/Why-do-we-need-memory-barriers-in-OS)<br>
 Artikel berisi tanggapan orang lain mengenai perdebatan penggunaan memory barrier.
-48. [Semaphores in OS](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)
+48. [Semaphores in OS](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
 Artikel berisi penjelasan lebih lanjut mengenai semaphore.
-49. [Semaphores Against Synchronization Problems](https://www.geeksforgeeks.org/classical-problems-of-synchronization-with-semaphore-solution/)
+49. [Semaphores Against Synchronization Problems](https://www.geeksforgeeks.org/classical-problems-of-synchronization-with-semaphore-solution/)<br>
 Artikel berisi daftar masalah klasik dalam synchronization dan solusinya dengan semaphore.
-50. [What is Deadlock?](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+50. [What is Deadlock?](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
 Artikel berisi penjelasan mengenai deadlock.
-51. [How to Handle Deadlock?](https://www.geeksforgeeks.org/handling-deadlocks/)
+51. [How to Handle Deadlock?](https://www.geeksforgeeks.org/handling-deadlocks/)<br>
 Artikel berisi cara menangani deadlock.
-52. [How to Stop Deadlock?](https://www.geeksforgeeks.org/deadlock-prevention/)
+52. [How to Stop Deadlock?](https://www.geeksforgeeks.org/deadlock-prevention/)<br>
 Artikel berisi cara mencegah deadlock.
-53. [What is Banker's Algorithm?](https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/)
+53. [What is Banker's Algorithm?](https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/)<br>
 Artikel berisi penjelasan mengenai Banker's Algorithm.
