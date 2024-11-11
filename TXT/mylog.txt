@@ -103,3 +103,16 @@ ZCZC W07 120 L03 GitHub and git related, including set up Docusaurus blog
 ZCZC W07 60 L08 OS chat or talk related with friends
 ZCZC W07 120 L06 References and browsing related
 ZCZC W07 60 L05 Weekly quiz with studying
+ZCZC W08 200 L02 Class meetings related
+ZCZC W08 90 L01 Scele related to Operating System (including doing Pop Quiz)
+ZCZC W08 150 L11 Assignment #01 (including reading new links)
+ZCZC W08 30 L12 Assignment #02
+ZCZC W08 150 L13 Assignment #03 (including set up LFS)
+ZCZC W08 30 L14 Assignment #04
+ZCZC W08 30 L41 TXT/mylog.txt related
+ZCZC W08 90 L43 TXT/myrank.txt related, including review links
+ZCZC W08 30 L03 GitHub and git related
+ZCZC W08 60 L08 OS chat or talk related with friends
+ZCZC W08 120 L06 References and browsing related
+ZCZC W08 45 L32 Watching OS related YouTube videos (including guide to build LFS)
+ZCZC W08 60 L05 Weekly quiz with studying

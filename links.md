@@ -110,3 +110,17 @@ Artikel berisi cara menangani deadlock.
 Artikel berisi cara mencegah deadlock.
 53. [What is Banker's Algorithm?](https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/)<br>
 Artikel berisi penjelasan mengenai Banker's Algorithm.
+54. [Time in CPU Scheduling](https://www.baeldung.com/cs/cpu-scheduling#:~:text=Burst%20time%2C%20also%20referred%20to,or%20unit%20of%20a%20job.)<br>
+Artikel berisi pengenalan waktu-waktu dalam CPU scheduling.
+55. [Arrival Time vs Burst Time](https://www.geeksforgeeks.org/difference-between-arrival-time-and-burst-time-in-cpu-scheduling/)<br>
+Artikel berisi perbedaan arrival time dan burst time pada CPU scheduling.
+56. [CPU Scheduling Criteria](https://www.geeksforgeeks.org/cpu-scheduling-criteria/)<br>
+Artikel berisi penjelasan mendalam mengenai kriteria dalam CPU Scheduling, dengan tambahan hyperlink macam-macam algoritma CPU Scheduling.
+57. [What is Thread Scheduling?](https://www.geeksforgeeks.org/thread-scheduling/)<br>
+Artikel berisi penjelasan mengenai thread scheduling.
+58. [Dispatch Latency vs Context Switch](https://www.geeksforgeeks.org/difference-between-dispatch-latency-and-context-switch-in-operating-systems/)<br>
+Artikel berisi perbedaan dispatch latency dengan context switch.
+59. [Real-Time Scheduling](https://www.geeksforgeeks.org/scheduling-in-real-time-systems/)<br>
+Artikel berisi penerapan scheduling dengan sistem real-time.
+60. [Linux Scheduling: Explained](https://youtu.be/vF3KKMI3_1s?si=YzGP-hGneCSTA8ua)<br>
+Video berisi pengenalan mengenai scheduling di Linux.
