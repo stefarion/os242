@@ -124,3 +124,13 @@ Artikel berisi perbedaan dispatch latency dengan context switch.
 Artikel berisi penerapan scheduling dengan sistem real-time.
 60. [Linux Scheduling: Explained](https://youtu.be/vF3KKMI3_1s?si=YzGP-hGneCSTA8ua)<br>
 Video berisi pengenalan mengenai scheduling di Linux.
+61. [Overview of MSS](https://www.javatpoint.com/mass-storage-structure-in-operating-systems)<br>
+Artikel berisi pengenalan mass storage strcture pada sistem operasi.
+62. [What is FCFS?](https://www.geeksforgeeks.org/first-come-first-serve-cpu-scheduling-non-preemptive/)<br>
+Artikel berisi penjelasan mengenai FCFS (First Come First Serve).
+63. [SCAN vs CSCAN Algorithm](https://www.geeksforgeeks.org/difference-between-scan-and-cscan-disk-scheduling-algorithms/)<br>
+Artikel berisi perbedaan alogoritma SCAN dengan CSCAN.
+64. [What is RAID? Part 1](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/)<br>
+Artikel berisi penjelasan mengenai struktur RAID oleh GeeksForGeeks.
+65. [What is RAID? Part 2](https://medium.com/@sonam.iitjammu2023/understanding-raid-structures-in-operating-systems-features-types-and-real-life-use-cases-e60c58fc775a)<br>
+Artikel berisi penjelasan menyuluruh mengenai struktur RAID dari sumber lain.
