@@ -116,3 +116,16 @@ ZCZC W08 60 L08 OS chat or talk related with friends
 ZCZC W08 120 L06 References and browsing related
 ZCZC W08 45 L32 Watching OS related YouTube videos (including guide to build LFS)
 ZCZC W08 60 L05 Weekly quiz with studying
+ZCZC W09 200 L02 Class meetings related
+ZCZC W09 120 L01 Scele related to Operating System (including doing Pop Quiz)
+ZCZC W09 120 L11 Assignment #01 (including reading new links)
+ZCZC W09 30 L12 Assignment #02
+ZCZC W09 210 L13 Assignment #03 (continue set up LFS)
+ZCZC W09 30 L14 Assignment #04
+ZCZC W09 30 L41 TXT/mylog.txt related
+ZCZC W09 60 L43 TXT/myrank.txt related, including review links
+ZCZC W09 30 L03 GitHub and git related
+ZCZC W09 60 L08 OS chat or talk related with friends
+ZCZC W09 120 L06 References and browsing related
+ZCZC W09 45 L32 Watching OS related YouTube videos (including guide to build LFS)
+ZCZC W09 60 L05 Weekly quiz with studying
